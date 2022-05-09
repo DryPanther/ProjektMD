@@ -1,0 +1,2626 @@
+Graf #1
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	1	0	0	1	
+1	0	1	0	1	0	1	
+0	1	0	0	1	1	0	
+1	0	0	0	1	0	0	
+0	1	1	1	0	0	0	
+0	0	1	0	0	0	0	
+1	1	0	0	0	0	0	
+Stopnie wierzchołków
+3	4	3	2	3	1	2	
+Krawędzie
+1-2 waga 3
+1-4 waga 8
+1-7 waga 7
+2-3 waga 3
+2-5 waga 7
+2-7 waga 7
+3-5 waga 6
+3-6 waga 2
+4-5 waga 5
+Waga drzewa: 48
+-----------------------------------------------
+Graf #2
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	0	1	1	0	
+1	0	1	0	0	0	1	
+0	1	0	0	0	0	0	
+0	0	0	0	1	1	1	
+1	0	0	1	0	1	1	
+1	0	0	1	1	0	0	
+0	1	0	1	1	0	0	
+Stopnie wierzchołków
+3	3	1	3	4	3	3	
+Krawędzie
+1-2 waga 7
+1-5 waga 2
+1-6 waga 3
+2-3 waga 6
+2-7 waga 5
+4-5 waga 9
+4-6 waga 2
+4-7 waga 5
+5-6 waga 1
+5-7 waga 1
+Waga drzewa: 41
+-----------------------------------------------
+Graf #3
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	0	0	0	0	
+1	0	0	0	1	0	0	
+0	0	0	0	0	1	1	
+0	0	0	0	1	1	0	
+0	1	0	1	0	0	0	
+0	0	1	1	0	0	0	
+0	0	1	0	0	0	0	
+Stopnie wierzchołków
+1	2	2	2	2	2	1	
+Krawędzie
+1-2 waga 6
+2-5 waga 9
+3-6 waga 5
+3-7 waga 8
+4-5 waga 8
+4-6 waga 1
+Waga drzewa: 37
+-----------------------------------------------
+Graf #4
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	0	1	1	0	
+0	0	1	0	0	0	1	
+0	1	0	0	0	0	0	
+0	0	0	0	1	1	1	
+1	0	0	1	0	0	0	
+1	0	0	1	0	0	0	
+0	1	0	1	0	0	0	
+Stopnie wierzchołków
+2	2	1	3	2	2	2	
+Krawędzie
+1-5 waga 8
+1-6 waga 9
+2-3 waga 2
+2-7 waga 4
+4-5 waga 9
+4-6 waga 9
+4-7 waga 5
+Waga drzewa: 46
+-----------------------------------------------
+Graf #5
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	1	1	0	1	
+1	0	1	1	1	1	0	
+1	1	0	0	1	0	0	
+1	1	0	0	0	1	0	
+1	1	1	0	0	1	1	
+0	1	0	1	1	0	1	
+1	0	0	0	1	1	0	
+Stopnie wierzchołków
+5	5	3	3	5	4	3	
+Krawędzie
+1-2 waga 1
+1-3 waga 8
+1-4 waga 7
+1-5 waga 5
+1-7 waga 9
+2-3 waga 4
+2-4 waga 4
+2-5 waga 2
+2-6 waga 2
+3-5 waga 2
+4-6 waga 9
+5-6 waga 7
+5-7 waga 3
+6-7 waga 2
+Waga drzewa: 65
+-----------------------------------------------
+Graf #6
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	0	0	0	1	
+1	0	0	1	1	0	1	
+0	0	0	1	1	0	0	
+0	1	1	0	0	0	1	
+0	1	1	0	0	0	0	
+0	0	0	0	0	0	1	
+1	1	0	1	0	1	0	
+Stopnie wierzchołków
+2	4	2	3	2	1	4	
+Krawędzie
+1-2 waga 1
+1-7 waga 9
+2-4 waga 9
+2-5 waga 9
+2-7 waga 8
+3-4 waga 6
+3-5 waga 6
+4-7 waga 6
+6-7 waga 6
+Waga drzewa: 60
+-----------------------------------------------
+Graf #7
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	1	0	1	0	
+1	0	1	0	1	1	1	
+0	1	0	1	1	1	1	
+1	0	1	0	1	0	0	
+0	1	1	1	0	0	1	
+1	1	1	0	0	0	0	
+0	1	1	0	1	0	0	
+Stopnie wierzchołków
+3	5	5	3	4	3	3	
+Krawędzie
+1-2 waga 2
+1-4 waga 1
+1-6 waga 2
+2-3 waga 4
+2-5 waga 4
+2-6 waga 9
+2-7 waga 3
+3-4 waga 6
+3-5 waga 6
+3-6 waga 9
+3-7 waga 3
+4-5 waga 6
+5-7 waga 9
+Waga drzewa: 64
+-----------------------------------------------
+Graf #8
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	0	1	1	
+0	0	1	1	1	0	0	
+1	1	0	0	1	1	0	
+1	1	0	0	0	1	0	
+0	1	1	0	0	0	1	
+1	0	1	1	0	0	0	
+1	0	0	0	1	0	0	
+Stopnie wierzchołków
+4	3	4	3	3	3	2	
+Krawędzie
+1-3 waga 5
+1-4 waga 3
+1-6 waga 5
+1-7 waga 7
+2-3 waga 5
+2-4 waga 9
+2-5 waga 3
+3-5 waga 9
+3-6 waga 6
+4-6 waga 7
+5-7 waga 8
+Waga drzewa: 67
+-----------------------------------------------
+Graf #9
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	1	0	0	
+0	0	0	1	0	1	1	
+0	0	0	0	0	1	0	
+1	1	0	0	1	0	0	
+1	0	0	1	0	1	0	
+0	1	1	0	1	0	1	
+0	1	0	0	0	1	0	
+Stopnie wierzchołków
+2	3	1	3	3	4	2	
+Krawędzie
+1-4 waga 5
+1-5 waga 1
+2-4 waga 2
+2-6 waga 3
+2-7 waga 3
+3-6 waga 2
+4-5 waga 8
+5-6 waga 6
+6-7 waga 7
+Waga drzewa: 37
+-----------------------------------------------
+Graf #10
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	0	0	1	0	
+0	0	0	0	1	1	1	
+1	0	0	1	1	1	0	
+0	0	1	0	1	0	0	
+0	1	1	1	0	0	0	
+1	1	1	0	0	0	1	
+0	1	0	0	0	1	0	
+Stopnie wierzchołków
+2	3	4	2	3	4	2	
+Krawędzie
+1-3 waga 8
+1-6 waga 8
+2-5 waga 1
+2-6 waga 6
+2-7 waga 6
+3-4 waga 8
+3-5 waga 4
+3-6 waga 4
+4-5 waga 2
+6-7 waga 8
+Waga drzewa: 55
+-----------------------------------------------
+Graf #11
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	1	0	1	1	
+1	0	1	1	0	0	1	
+0	1	0	0	1	0	0	
+1	1	0	0	1	1	0	
+0	0	1	1	0	1	0	
+1	0	0	1	1	0	1	
+1	1	0	0	0	1	0	
+Stopnie wierzchołków
+4	4	2	4	3	4	3	
+Krawędzie
+1-2 waga 7
+1-4 waga 3
+1-6 waga 7
+1-7 waga 1
+2-3 waga 7
+2-4 waga 7
+2-7 waga 5
+3-5 waga 6
+4-5 waga 6
+4-6 waga 6
+5-6 waga 8
+6-7 waga 9
+Waga drzewa: 72
+-----------------------------------------------
+Graf #12
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	0	1	0	
+0	0	0	0	1	1	1	
+0	0	0	1	0	1	0	
+1	0	1	0	1	1	0	
+0	1	0	1	0	1	1	
+1	1	1	1	1	0	0	
+0	1	0	0	1	0	0	
+Stopnie wierzchołków
+2	3	2	4	4	5	2	
+Krawędzie
+1-4 waga 8
+1-6 waga 9
+2-5 waga 3
+2-6 waga 9
+2-7 waga 2
+3-4 waga 7
+3-6 waga 7
+4-5 waga 7
+4-6 waga 1
+5-6 waga 2
+5-7 waga 3
+Waga drzewa: 58
+-----------------------------------------------
+Graf #13
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	1	0	0	
+0	0	1	0	0	1	1	
+0	1	0	1	0	1	0	
+1	0	1	0	0	0	1	
+1	0	0	0	0	0	0	
+0	1	1	0	0	0	1	
+0	1	0	1	0	1	0	
+Stopnie wierzchołków
+2	3	3	3	1	3	3	
+Krawędzie
+1-4 waga 9
+1-5 waga 7
+2-3 waga 2
+2-6 waga 1
+2-7 waga 9
+3-4 waga 8
+3-6 waga 5
+4-7 waga 6
+6-7 waga 6
+Waga drzewa: 53
+-----------------------------------------------
+Graf #14
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	0	1	0	0	
+1	0	0	1	0	0	0	
+1	0	0	0	0	1	0	
+0	1	0	0	0	0	1	
+1	0	0	0	0	1	1	
+0	0	1	0	1	0	1	
+0	0	0	1	1	1	0	
+Stopnie wierzchołków
+3	2	2	2	3	3	3	
+Krawędzie
+1-2 waga 8
+1-3 waga 4
+1-5 waga 7
+2-4 waga 5
+3-6 waga 1
+4-7 waga 8
+5-6 waga 1
+5-7 waga 2
+6-7 waga 8
+Waga drzewa: 44
+-----------------------------------------------
+Graf #15
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	0	0	1	0	
+0	0	1	1	0	1	1	
+0	1	0	0	0	0	1	
+0	1	0	0	1	0	1	
+0	0	0	1	0	0	1	
+1	1	0	0	0	0	0	
+0	1	1	1	1	0	0	
+Stopnie wierzchołków
+1	4	2	3	2	2	4	
+Krawędzie
+1-6 waga 1
+2-3 waga 3
+2-4 waga 5
+2-6 waga 6
+2-7 waga 5
+3-7 waga 3
+4-5 waga 2
+4-7 waga 5
+5-7 waga 3
+Waga drzewa: 33
+-----------------------------------------------
+Graf #16
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	1	0	0	0	
+1	0	0	0	1	1	1	
+1	0	0	1	0	0	1	
+1	0	1	0	1	1	1	
+0	1	0	1	0	0	1	
+0	1	0	1	0	0	1	
+0	1	1	1	1	1	0	
+Stopnie wierzchołków
+3	4	3	5	3	3	5	
+Krawędzie
+1-2 waga 9
+1-3 waga 4
+1-4 waga 9
+2-5 waga 5
+2-6 waga 2
+2-7 waga 5
+3-4 waga 3
+3-7 waga 4
+4-5 waga 7
+4-6 waga 8
+4-7 waga 6
+5-7 waga 1
+6-7 waga 7
+Waga drzewa: 70
+-----------------------------------------------
+Graf #17
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	0	0	1	1	
+0	0	1	1	1	1	1	
+0	1	0	0	0	0	0	
+0	1	0	0	1	0	1	
+0	1	0	1	0	0	1	
+1	1	0	0	0	0	0	
+1	1	0	1	1	0	0	
+Stopnie wierzchołków
+2	5	1	3	3	2	4	
+Krawędzie
+1-6 waga 7
+1-7 waga 5
+2-3 waga 4
+2-4 waga 6
+2-5 waga 6
+2-6 waga 3
+2-7 waga 6
+4-5 waga 4
+4-7 waga 7
+5-7 waga 3
+Waga drzewa: 51
+-----------------------------------------------
+Graf #18
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	1	0	0	
+0	0	0	1	0	1	0	
+0	0	0	0	0	1	1	
+1	1	0	0	1	0	1	
+1	0	0	1	0	1	0	
+0	1	1	0	1	0	1	
+0	0	1	1	0	1	0	
+Stopnie wierzchołków
+2	2	2	4	3	4	3	
+Krawędzie
+1-4 waga 8
+1-5 waga 2
+2-4 waga 1
+2-6 waga 6
+3-6 waga 2
+3-7 waga 3
+4-5 waga 2
+4-7 waga 7
+5-6 waga 1
+6-7 waga 5
+Waga drzewa: 37
+-----------------------------------------------
+Graf #19
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	1	1	1	0	
+1	0	0	0	1	0	0	
+1	0	0	1	0	1	1	
+1	0	1	0	0	1	1	
+1	1	0	0	0	0	1	
+1	0	1	1	0	0	0	
+0	0	1	1	1	0	0	
+Stopnie wierzchołków
+5	2	4	4	3	3	3	
+Krawędzie
+1-2 waga 3
+1-3 waga 6
+1-4 waga 3
+1-5 waga 1
+1-6 waga 7
+2-5 waga 2
+3-4 waga 8
+3-6 waga 4
+3-7 waga 3
+4-6 waga 6
+4-7 waga 3
+5-7 waga 5
+Waga drzewa: 51
+-----------------------------------------------
+Graf #20
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	0	0	0	
+0	0	0	0	1	1	1	
+1	0	0	0	1	0	0	
+1	0	0	0	1	1	0	
+0	1	1	1	0	1	0	
+0	1	0	1	1	0	0	
+0	1	0	0	0	0	0	
+Stopnie wierzchołków
+2	3	2	3	4	3	1	
+Krawędzie
+1-3 waga 6
+1-4 waga 4
+2-5 waga 6
+2-6 waga 1
+2-7 waga 9
+3-5 waga 4
+4-5 waga 7
+4-6 waga 8
+5-6 waga 5
+Waga drzewa: 50
+-----------------------------------------------
+Graf #21
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	0	1	1	1	
+0	0	1	1	1	0	1	
+1	1	0	0	0	1	0	
+0	1	0	0	0	0	0	
+1	1	0	0	0	0	1	
+1	0	1	0	0	0	1	
+1	1	0	0	1	1	0	
+Stopnie wierzchołków
+4	4	3	1	3	3	4	
+Krawędzie
+1-3 waga 9
+1-5 waga 9
+1-6 waga 3
+1-7 waga 4
+2-3 waga 3
+2-4 waga 2
+2-5 waga 8
+2-7 waga 8
+3-6 waga 7
+5-7 waga 3
+6-7 waga 6
+Waga drzewa: 62
+-----------------------------------------------
+Graf #22
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	0	1	1	
+0	0	1	1	1	1	1	
+1	1	0	1	0	0	0	
+1	1	1	0	1	0	0	
+0	1	0	1	0	0	0	
+1	1	0	0	0	0	0	
+1	1	0	0	0	0	0	
+Stopnie wierzchołków
+4	5	3	4	2	2	2	
+Krawędzie
+1-3 waga 5
+1-4 waga 4
+1-6 waga 1
+1-7 waga 5
+2-3 waga 2
+2-4 waga 6
+2-5 waga 6
+2-6 waga 2
+2-7 waga 1
+3-4 waga 2
+4-5 waga 4
+Waga drzewa: 38
+-----------------------------------------------
+Graf #23
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	1	1	1	1	
+1	0	1	0	1	0	1	
+1	1	0	0	0	0	1	
+1	0	0	0	0	1	1	
+1	1	0	0	0	1	1	
+1	0	0	1	1	0	1	
+1	1	1	1	1	1	0	
+Stopnie wierzchołków
+6	4	3	3	4	4	6	
+Krawędzie
+1-2 waga 1
+1-3 waga 5
+1-4 waga 4
+1-5 waga 1
+1-6 waga 8
+1-7 waga 8
+2-3 waga 5
+2-5 waga 2
+2-7 waga 8
+3-7 waga 2
+4-6 waga 3
+4-7 waga 8
+5-6 waga 2
+5-7 waga 1
+6-7 waga 6
+Waga drzewa: 64
+-----------------------------------------------
+Graf #24
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	1	1	1	
+0	0	0	1	0	0	0	
+0	0	0	0	1	0	0	
+1	1	0	0	1	0	0	
+1	0	1	1	0	0	0	
+1	0	0	0	0	0	1	
+1	0	0	0	0	1	0	
+Stopnie wierzchołków
+4	1	1	3	3	2	2	
+Krawędzie
+1-4 waga 9
+1-5 waga 7
+1-6 waga 3
+1-7 waga 4
+2-4 waga 5
+3-5 waga 5
+4-5 waga 4
+6-7 waga 1
+Waga drzewa: 38
+-----------------------------------------------
+Graf #25
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	1	1	0	
+0	0	0	0	1	1	0	
+0	0	0	0	1	1	0	
+1	0	0	0	0	0	0	
+1	1	1	0	0	0	0	
+1	1	1	0	0	0	0	
+0	0	0	0	0	0	0	
+Stopnie wierzchołków
+3	2	2	1	3	3	0	
+Krawędzie
+1-4 waga 1
+1-5 waga 9
+1-6 waga 4
+2-5 waga 5
+2-6 waga 5
+3-5 waga 9
+3-6 waga 1
+Waga drzewa: 34
+-----------------------------------------------
+Graf #26
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	1	1	1	0	
+1	0	0	0	0	0	1	
+1	0	0	0	1	1	1	
+1	0	0	0	0	0	0	
+1	0	1	0	0	0	1	
+1	0	1	0	0	0	0	
+0	1	1	0	1	0	0	
+Stopnie wierzchołków
+5	2	4	1	3	2	3	
+Krawędzie
+1-2 waga 6
+1-3 waga 9
+1-4 waga 9
+1-5 waga 1
+1-6 waga 9
+2-7 waga 5
+3-5 waga 4
+3-6 waga 1
+3-7 waga 7
+5-7 waga 5
+Waga drzewa: 56
+-----------------------------------------------
+Graf #27
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	1	1	1	
+0	0	1	0	0	1	0	
+0	1	0	0	1	1	1	
+1	0	0	0	1	1	0	
+1	0	1	1	0	0	0	
+1	1	1	1	0	0	1	
+1	0	1	0	0	1	0	
+Stopnie wierzchołków
+4	2	4	3	3	5	3	
+Krawędzie
+1-4 waga 5
+1-5 waga 9
+1-6 waga 9
+1-7 waga 6
+2-3 waga 2
+2-6 waga 8
+3-5 waga 3
+3-6 waga 4
+3-7 waga 9
+4-5 waga 5
+4-6 waga 2
+6-7 waga 7
+Waga drzewa: 69
+-----------------------------------------------
+Graf #28
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	1	0	1	0	
+1	0	1	0	0	1	1	
+1	1	0	1	1	1	0	
+1	0	1	0	1	0	0	
+0	0	1	1	0	0	0	
+1	1	1	0	0	0	0	
+0	1	0	0	0	0	0	
+Stopnie wierzchołków
+4	4	5	3	2	3	1	
+Krawędzie
+1-2 waga 7
+1-3 waga 5
+1-4 waga 3
+1-6 waga 4
+2-3 waga 9
+2-6 waga 1
+2-7 waga 1
+3-4 waga 4
+3-5 waga 4
+3-6 waga 7
+4-5 waga 1
+Waga drzewa: 46
+-----------------------------------------------
+Graf #29
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	0	0	0	0	
+1	0	0	0	0	0	0	
+0	0	0	1	0	1	1	
+0	0	1	0	0	0	1	
+0	0	0	0	0	1	1	
+0	0	1	0	1	0	0	
+0	0	1	1	1	0	0	
+Stopnie wierzchołków
+1	1	3	2	2	2	3	
+Krawędzie
+1-2 waga 3
+3-4 waga 1
+3-6 waga 3
+3-7 waga 1
+4-7 waga 6
+5-6 waga 4
+5-7 waga 5
+Waga drzewa: 23
+-----------------------------------------------
+Graf #30
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	0	0	0	
+0	0	1	0	0	1	0	
+1	1	0	1	0	0	1	
+1	0	1	0	0	0	1	
+0	0	0	0	0	1	0	
+0	1	0	0	1	0	1	
+0	0	1	1	0	1	0	
+Stopnie wierzchołków
+2	2	4	3	1	3	3	
+Krawędzie
+1-3 waga 1
+1-4 waga 2
+2-3 waga 2
+2-6 waga 9
+3-4 waga 8
+3-7 waga 2
+4-7 waga 7
+5-6 waga 8
+6-7 waga 5
+Waga drzewa: 44
+-----------------------------------------------
+Graf #31
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	0	1	1	0	
+1	0	0	1	1	0	1	
+1	0	0	1	0	0	0	
+0	1	1	0	1	0	1	
+1	1	0	1	0	0	0	
+1	0	0	0	0	0	0	
+0	1	0	1	0	0	0	
+Stopnie wierzchołków
+4	4	2	4	3	1	2	
+Krawędzie
+1-2 waga 1
+1-3 waga 4
+1-5 waga 6
+1-6 waga 4
+2-4 waga 5
+2-5 waga 5
+2-7 waga 9
+3-4 waga 7
+4-5 waga 2
+4-7 waga 6
+Waga drzewa: 49
+-----------------------------------------------
+Graf #32
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	0	0	0	
+0	0	0	1	1	0	0	
+0	0	0	1	1	1	1	
+1	1	1	0	0	1	1	
+0	1	1	0	0	0	1	
+0	0	1	1	0	0	1	
+0	0	1	1	1	1	0	
+Stopnie wierzchołków
+1	2	4	5	3	3	4	
+Krawędzie
+1-4 waga 6
+2-4 waga 9
+2-5 waga 1
+3-4 waga 8
+3-5 waga 5
+3-6 waga 6
+3-7 waga 1
+4-6 waga 6
+4-7 waga 2
+5-7 waga 6
+6-7 waga 5
+Waga drzewa: 55
+-----------------------------------------------
+Graf #33
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	0	0	1	1	
+0	0	1	0	0	0	0	
+0	1	0	1	0	1	1	
+0	0	1	0	1	1	0	
+0	0	0	1	0	0	1	
+1	0	1	1	0	0	1	
+1	0	1	0	1	1	0	
+Stopnie wierzchołków
+2	1	4	3	2	4	4	
+Krawędzie
+1-6 waga 9
+1-7 waga 5
+2-3 waga 4
+3-4 waga 6
+3-6 waga 5
+3-7 waga 8
+4-5 waga 8
+4-6 waga 4
+5-7 waga 1
+6-7 waga 3
+Waga drzewa: 53
+-----------------------------------------------
+Graf #34
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	0	0	0	1	
+0	0	0	1	0	0	1	
+1	0	0	0	0	0	0	
+0	1	0	0	1	0	1	
+0	0	0	1	0	0	0	
+0	0	0	0	0	0	0	
+1	1	0	1	0	0	0	
+Stopnie wierzchołków
+2	2	1	3	1	0	3	
+Krawędzie
+1-3 waga 9
+1-7 waga 5
+2-4 waga 2
+2-7 waga 5
+4-5 waga 8
+4-7 waga 8
+Waga drzewa: 37
+-----------------------------------------------
+Graf #35
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	0	1	1	1	
+1	0	0	0	0	1	1	
+0	0	0	0	1	1	0	
+0	0	0	0	1	0	0	
+1	0	1	1	0	1	0	
+1	1	1	0	1	0	1	
+1	1	0	0	0	1	0	
+Stopnie wierzchołków
+4	3	2	1	4	5	3	
+Krawędzie
+1-2 waga 2
+1-5 waga 1
+1-6 waga 3
+1-7 waga 2
+2-6 waga 7
+2-7 waga 4
+3-5 waga 9
+3-6 waga 4
+4-5 waga 4
+5-6 waga 2
+6-7 waga 7
+Waga drzewa: 45
+-----------------------------------------------
+Graf #36
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	1	1	1	1	
+1	0	1	1	1	0	1	
+1	1	0	1	0	0	1	
+1	1	1	0	1	1	1	
+1	1	0	1	0	1	0	
+1	0	0	1	1	0	0	
+1	1	1	1	0	0	0	
+Stopnie wierzchołków
+6	5	4	6	4	3	4	
+Krawędzie
+1-2 waga 1
+1-3 waga 8
+1-4 waga 5
+1-5 waga 7
+1-6 waga 8
+1-7 waga 8
+2-3 waga 2
+2-4 waga 7
+2-5 waga 6
+2-7 waga 8
+3-4 waga 9
+3-7 waga 6
+4-5 waga 5
+4-6 waga 8
+4-7 waga 6
+5-6 waga 2
+Waga drzewa: 96
+-----------------------------------------------
+Graf #37
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	1	1	1	
+0	0	0	0	0	1	1	
+1	0	0	0	1	1	1	
+1	0	0	0	0	1	1	
+1	0	1	0	0	0	0	
+1	1	1	1	0	0	0	
+1	1	1	1	0	0	0	
+Stopnie wierzchołków
+5	2	4	3	2	4	4	
+Krawędzie
+1-3 waga 5
+1-4 waga 8
+1-5 waga 6
+1-6 waga 8
+1-7 waga 9
+2-6 waga 6
+2-7 waga 9
+3-5 waga 6
+3-6 waga 2
+3-7 waga 7
+4-6 waga 6
+4-7 waga 4
+Waga drzewa: 76
+-----------------------------------------------
+Graf #38
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	0	1	1	0	
+0	0	0	1	0	0	0	
+1	0	0	1	1	1	1	
+0	1	1	0	0	1	1	
+1	0	1	0	0	0	0	
+1	0	1	1	0	0	1	
+0	0	1	1	0	1	0	
+Stopnie wierzchołków
+3	1	5	4	2	4	3	
+Krawędzie
+1-3 waga 7
+1-5 waga 6
+1-6 waga 6
+2-4 waga 9
+3-4 waga 3
+3-5 waga 6
+3-6 waga 2
+3-7 waga 2
+4-6 waga 7
+4-7 waga 2
+6-7 waga 1
+Waga drzewa: 51
+-----------------------------------------------
+Graf #39
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	0	1	1	
+0	0	0	0	1	1	1	
+1	0	0	1	0	0	0	
+1	0	1	0	1	0	0	
+0	1	0	1	0	0	0	
+1	1	0	0	0	0	0	
+1	1	0	0	0	0	0	
+Stopnie wierzchołków
+4	3	2	3	2	2	2	
+Krawędzie
+1-3 waga 1
+1-4 waga 1
+1-6 waga 9
+1-7 waga 2
+2-5 waga 2
+2-6 waga 9
+2-7 waga 5
+3-4 waga 9
+4-5 waga 1
+Waga drzewa: 39
+-----------------------------------------------
+Graf #40
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	0	0	0	
+0	0	1	0	0	1	0	
+0	1	0	0	1	0	1	
+1	0	0	0	1	1	1	
+0	0	1	1	0	0	1	
+0	1	0	1	0	0	0	
+0	0	1	1	1	0	0	
+Stopnie wierzchołków
+1	2	3	4	3	2	3	
+Krawędzie
+1-4 waga 4
+2-3 waga 8
+2-6 waga 2
+3-5 waga 7
+3-7 waga 1
+4-5 waga 5
+4-6 waga 9
+4-7 waga 3
+5-7 waga 6
+Waga drzewa: 45
+-----------------------------------------------
+Graf #41
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	0	1	1	
+0	0	0	0	0	1	1	
+0	0	0	1	0	0	1	
+1	0	1	0	1	1	0	
+0	0	0	1	0	0	0	
+1	1	0	1	0	0	1	
+1	1	1	0	0	1	0	
+Stopnie wierzchołków
+3	2	2	4	1	4	4	
+Krawędzie
+1-4 waga 9
+1-6 waga 1
+1-7 waga 4
+2-6 waga 1
+2-7 waga 7
+3-4 waga 2
+3-7 waga 8
+4-5 waga 8
+4-6 waga 7
+6-7 waga 2
+Waga drzewa: 49
+-----------------------------------------------
+Graf #42
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	0	1	0	0	
+0	0	1	0	1	1	0	
+1	1	0	0	1	0	0	
+0	0	0	0	0	0	1	
+1	1	1	0	0	0	1	
+0	1	0	0	0	0	0	
+0	0	0	1	1	0	0	
+Stopnie wierzchołków
+2	3	3	1	4	1	2	
+Krawędzie
+1-3 waga 9
+1-5 waga 7
+2-3 waga 5
+2-5 waga 4
+2-6 waga 1
+3-5 waga 9
+4-7 waga 6
+5-7 waga 8
+Waga drzewa: 49
+-----------------------------------------------
+Graf #43
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	1	1	1	
+0	0	0	1	1	0	1	
+1	0	0	0	1	0	0	
+1	1	0	0	1	0	0	
+1	1	1	1	0	1	1	
+1	0	0	0	1	0	0	
+1	1	0	0	1	0	0	
+Stopnie wierzchołków
+5	3	2	3	6	2	3	
+Krawędzie
+1-3 waga 2
+1-4 waga 6
+1-5 waga 4
+1-6 waga 3
+1-7 waga 9
+2-4 waga 5
+2-5 waga 9
+2-7 waga 6
+3-5 waga 9
+4-5 waga 7
+5-6 waga 5
+5-7 waga 7
+Waga drzewa: 72
+-----------------------------------------------
+Graf #44
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	0	1	0	
+0	0	1	0	0	0	1	
+0	1	0	0	1	0	0	
+1	0	0	0	1	0	0	
+0	0	1	1	0	0	0	
+1	0	0	0	0	0	0	
+0	1	0	0	0	0	0	
+Stopnie wierzchołków
+2	2	2	2	2	1	1	
+Krawędzie
+1-4 waga 8
+1-6 waga 2
+2-3 waga 9
+2-7 waga 4
+3-5 waga 5
+4-5 waga 2
+Waga drzewa: 30
+-----------------------------------------------
+Graf #45
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	0	0	0	
+0	0	0	0	1	0	1	
+1	0	0	0	1	0	1	
+1	0	0	0	0	0	1	
+0	1	1	0	0	0	0	
+0	0	0	0	0	0	1	
+0	1	1	1	0	1	0	
+Stopnie wierzchołków
+2	2	3	2	2	1	4	
+Krawędzie
+1-3 waga 8
+1-4 waga 4
+2-5 waga 9
+2-7 waga 8
+3-5 waga 9
+3-7 waga 8
+4-7 waga 3
+6-7 waga 7
+Waga drzewa: 56
+-----------------------------------------------
+Graf #46
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	0	1	1	1	
+1	0	0	0	1	0	1	
+0	0	0	0	1	1	0	
+0	0	0	0	0	0	0	
+1	1	1	0	0	1	1	
+1	0	1	0	1	0	1	
+1	1	0	0	1	1	0	
+Stopnie wierzchołków
+4	3	2	0	5	4	4	
+Krawędzie
+1-2 waga 5
+1-5 waga 7
+1-6 waga 7
+1-7 waga 5
+2-5 waga 7
+2-7 waga 2
+3-5 waga 1
+3-6 waga 8
+5-6 waga 8
+5-7 waga 3
+6-7 waga 3
+Waga drzewa: 56
+-----------------------------------------------
+Graf #47
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	0	0	0	0	
+1	0	1	1	0	1	1	
+0	1	0	1	1	1	1	
+0	1	1	0	1	0	0	
+0	0	1	1	0	1	0	
+0	1	1	0	1	0	0	
+0	1	1	0	0	0	0	
+Stopnie wierzchołków
+1	5	5	3	3	3	2	
+Krawędzie
+1-2 waga 5
+2-3 waga 1
+2-4 waga 3
+2-6 waga 7
+2-7 waga 5
+3-4 waga 2
+3-5 waga 8
+3-6 waga 2
+3-7 waga 6
+4-5 waga 6
+5-6 waga 3
+Waga drzewa: 48
+-----------------------------------------------
+Graf #48
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	0	0	0	0	
+1	0	1	1	1	1	1	
+0	1	0	1	1	0	1	
+0	1	1	0	0	0	1	
+0	1	1	0	0	0	1	
+0	1	0	0	0	0	0	
+0	1	1	1	1	0	0	
+Stopnie wierzchołków
+1	6	4	3	3	1	4	
+Krawędzie
+1-2 waga 7
+2-3 waga 8
+2-4 waga 8
+2-5 waga 3
+2-6 waga 3
+2-7 waga 9
+3-4 waga 4
+3-5 waga 8
+3-7 waga 8
+4-7 waga 8
+5-7 waga 8
+Waga drzewa: 74
+-----------------------------------------------
+Graf #49
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	0	1	1	
+0	0	1	1	1	1	1	
+0	1	0	0	0	1	1	
+1	1	0	0	1	0	1	
+0	1	0	1	0	0	0	
+1	1	1	0	0	0	0	
+1	1	1	1	0	0	0	
+Stopnie wierzchołków
+3	5	3	4	2	3	4	
+Krawędzie
+1-4 waga 6
+1-6 waga 3
+1-7 waga 3
+2-3 waga 1
+2-4 waga 5
+2-5 waga 9
+2-6 waga 7
+2-7 waga 2
+3-6 waga 7
+3-7 waga 2
+4-5 waga 7
+4-7 waga 6
+Waga drzewa: 58
+-----------------------------------------------
+Graf #50
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	1	0	1	
+0	0	1	0	0	0	1	
+1	1	0	1	1	1	1	
+1	0	1	0	1	1	1	
+1	0	1	1	0	1	1	
+0	0	1	1	1	0	1	
+1	1	1	1	1	1	0	
+Stopnie wierzchołków
+4	2	6	5	5	4	6	
+Krawędzie
+1-3 waga 8
+1-4 waga 6
+1-5 waga 7
+1-7 waga 6
+2-3 waga 3
+2-7 waga 9
+3-4 waga 1
+3-5 waga 6
+3-6 waga 3
+3-7 waga 4
+4-5 waga 2
+4-6 waga 3
+4-7 waga 9
+5-6 waga 1
+5-7 waga 6
+6-7 waga 7
+Waga drzewa: 81
+-----------------------------------------------
+Graf #51
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	0	1	0	
+0	0	0	0	1	1	0	
+1	0	0	0	0	0	0	
+1	0	0	0	1	0	0	
+0	1	0	1	0	1	0	
+1	1	0	0	1	0	1	
+0	0	0	0	0	1	0	
+Stopnie wierzchołków
+3	2	1	2	3	4	1	
+Krawędzie
+1-3 waga 2
+1-4 waga 6
+1-6 waga 4
+2-5 waga 8
+2-6 waga 3
+4-5 waga 9
+5-6 waga 8
+6-7 waga 1
+Waga drzewa: 41
+-----------------------------------------------
+Graf #52
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	0	1	1	1	
+1	0	1	1	1	0	1	
+0	1	0	0	0	0	1	
+0	1	0	0	0	1	0	
+1	1	0	0	0	0	1	
+1	0	0	1	0	0	1	
+1	1	1	0	1	1	0	
+Stopnie wierzchołków
+4	5	2	2	3	3	5	
+Krawędzie
+1-2 waga 5
+1-5 waga 8
+1-6 waga 7
+1-7 waga 5
+2-3 waga 4
+2-4 waga 2
+2-5 waga 8
+2-7 waga 3
+3-7 waga 3
+4-6 waga 1
+5-7 waga 1
+6-7 waga 8
+Waga drzewa: 55
+-----------------------------------------------
+Graf #53
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	0	1	0	0	
+1	0	0	1	0	0	0	
+1	0	0	1	0	1	1	
+0	1	1	0	0	1	0	
+1	0	0	0	0	0	0	
+0	0	1	1	0	0	1	
+0	0	1	0	0	1	0	
+Stopnie wierzchołków
+3	2	4	3	1	3	2	
+Krawędzie
+1-2 waga 8
+1-3 waga 7
+1-5 waga 6
+2-4 waga 8
+3-4 waga 7
+3-6 waga 7
+3-7 waga 1
+4-6 waga 8
+6-7 waga 6
+Waga drzewa: 58
+-----------------------------------------------
+Graf #54
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	1	1	0	0	
+1	0	0	1	0	0	1	
+1	0	0	1	0	1	0	
+1	1	1	0	1	1	0	
+1	0	0	1	0	1	0	
+0	0	1	1	1	0	1	
+0	1	0	0	0	1	0	
+Stopnie wierzchołków
+4	3	3	5	3	4	2	
+Krawędzie
+1-2 waga 9
+1-3 waga 3
+1-4 waga 1
+1-5 waga 4
+2-4 waga 9
+2-7 waga 7
+3-4 waga 5
+3-6 waga 6
+4-5 waga 6
+4-6 waga 4
+5-6 waga 5
+6-7 waga 1
+Waga drzewa: 60
+-----------------------------------------------
+Graf #55
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	0	0	0	1	
+1	0	0	0	1	1	1	
+1	0	0	0	0	0	1	
+0	0	0	0	1	0	0	
+0	1	0	1	0	0	1	
+0	1	0	0	0	0	1	
+1	1	1	0	1	1	0	
+Stopnie wierzchołków
+3	4	2	1	3	2	5	
+Krawędzie
+1-2 waga 9
+1-3 waga 9
+1-7 waga 1
+2-5 waga 6
+2-6 waga 3
+2-7 waga 8
+3-7 waga 4
+4-5 waga 2
+5-7 waga 5
+6-7 waga 1
+Waga drzewa: 48
+-----------------------------------------------
+Graf #56
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	0	1	0	
+0	0	1	1	0	0	0	
+0	1	0	0	0	1	1	
+1	1	0	0	0	0	1	
+0	0	0	0	0	0	0	
+1	0	1	0	0	0	1	
+0	0	1	1	0	1	0	
+Stopnie wierzchołków
+2	2	3	3	0	3	3	
+Krawędzie
+1-4 waga 4
+1-6 waga 8
+2-3 waga 1
+2-4 waga 1
+3-6 waga 5
+3-7 waga 6
+4-7 waga 6
+6-7 waga 1
+Waga drzewa: 32
+-----------------------------------------------
+Graf #57
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	0	0	0	0	
+1	0	1	1	1	0	0	
+1	1	0	0	0	0	1	
+0	1	0	0	1	1	0	
+0	1	0	1	0	1	0	
+0	0	0	1	1	0	0	
+0	0	1	0	0	0	0	
+Stopnie wierzchołków
+2	4	3	3	3	2	1	
+Krawędzie
+1-2 waga 5
+1-3 waga 8
+2-3 waga 4
+2-4 waga 2
+2-5 waga 5
+3-7 waga 1
+4-5 waga 2
+4-6 waga 2
+5-6 waga 3
+Waga drzewa: 32
+-----------------------------------------------
+Graf #58
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	0	0	1	0	
+0	0	0	1	0	0	1	
+0	0	0	0	1	0	1	
+0	1	0	0	1	1	0	
+0	0	1	1	0	0	1	
+1	0	0	1	0	0	1	
+0	1	1	0	1	1	0	
+Stopnie wierzchołków
+1	2	2	3	3	3	4	
+Krawędzie
+1-6 waga 9
+2-4 waga 9
+2-7 waga 7
+3-5 waga 3
+3-7 waga 3
+4-5 waga 2
+4-6 waga 7
+5-7 waga 1
+6-7 waga 4
+Waga drzewa: 45
+-----------------------------------------------
+Graf #59
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	1	1	0	0	
+1	0	0	1	0	1	0	
+0	0	0	1	1	0	0	
+1	1	1	0	1	0	0	
+1	0	1	1	0	0	1	
+0	1	0	0	0	0	1	
+0	0	0	0	1	1	0	
+Stopnie wierzchołków
+3	3	2	4	4	2	2	
+Krawędzie
+1-2 waga 3
+1-4 waga 9
+1-5 waga 9
+2-4 waga 5
+2-6 waga 9
+3-4 waga 9
+3-5 waga 6
+4-5 waga 7
+5-7 waga 1
+6-7 waga 4
+Waga drzewa: 62
+-----------------------------------------------
+Graf #60
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	1	0	0	0	
+1	0	0	1	1	0	1	
+0	0	0	1	0	0	0	
+1	1	1	0	0	1	1	
+0	1	0	0	0	0	0	
+0	0	0	1	0	0	1	
+0	1	0	1	0	1	0	
+Stopnie wierzchołków
+2	4	1	5	1	2	3	
+Krawędzie
+1-2 waga 1
+1-4 waga 2
+2-4 waga 1
+2-5 waga 1
+2-7 waga 2
+3-4 waga 2
+4-6 waga 6
+4-7 waga 6
+6-7 waga 8
+Waga drzewa: 29
+-----------------------------------------------
+Graf #61
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	1	0	1	0	
+1	0	1	0	0	1	0	
+1	1	0	0	0	1	0	
+1	0	0	0	1	0	0	
+0	0	0	1	0	1	1	
+1	1	1	0	1	0	0	
+0	0	0	0	1	0	0	
+Stopnie wierzchołków
+4	3	3	2	3	4	1	
+Krawędzie
+1-2 waga 6
+1-3 waga 2
+1-4 waga 2
+1-6 waga 9
+2-3 waga 6
+2-6 waga 3
+3-6 waga 2
+4-5 waga 9
+5-6 waga 8
+5-7 waga 2
+Waga drzewa: 49
+-----------------------------------------------
+Graf #62
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	1	1	1	
+0	0	0	1	1	1	1	
+1	0	0	0	1	0	0	
+1	1	0	0	0	1	1	
+1	1	1	0	0	1	0	
+1	1	0	1	1	0	0	
+1	1	0	1	0	0	0	
+Stopnie wierzchołków
+5	4	2	4	4	4	3	
+Krawędzie
+1-3 waga 9
+1-4 waga 4
+1-5 waga 3
+1-6 waga 3
+1-7 waga 1
+2-4 waga 3
+2-5 waga 2
+2-6 waga 7
+2-7 waga 7
+3-5 waga 1
+4-6 waga 5
+4-7 waga 9
+5-6 waga 3
+Waga drzewa: 57
+-----------------------------------------------
+Graf #63
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	0	0	1	1	
+0	0	0	0	1	0	1	
+1	0	0	1	1	0	0	
+0	0	1	0	1	0	1	
+0	1	1	1	0	0	1	
+1	0	0	0	0	0	0	
+1	1	0	1	1	0	0	
+Stopnie wierzchołków
+3	2	3	3	4	1	4	
+Krawędzie
+1-3 waga 1
+1-6 waga 8
+1-7 waga 8
+2-5 waga 1
+2-7 waga 1
+3-4 waga 3
+3-5 waga 7
+4-5 waga 5
+4-7 waga 7
+5-7 waga 4
+Waga drzewa: 45
+-----------------------------------------------
+Graf #64
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	1	1	1	1	
+1	0	0	0	0	0	1	
+0	0	0	0	1	0	1	
+1	0	0	0	0	0	1	
+1	0	1	0	0	0	1	
+1	0	0	0	0	0	1	
+1	1	1	1	1	1	0	
+Stopnie wierzchołków
+5	2	2	2	3	2	6	
+Krawędzie
+1-2 waga 2
+1-4 waga 8
+1-5 waga 2
+1-6 waga 6
+1-7 waga 1
+2-7 waga 8
+3-5 waga 9
+3-7 waga 6
+4-7 waga 6
+5-7 waga 1
+6-7 waga 4
+Waga drzewa: 53
+-----------------------------------------------
+Graf #65
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	
+0	0	0	1	0	1	0	
+0	0	1	0	1	1	1	
+1	0	0	1	0	0	0	
+0	1	1	1	0	0	1	
+0	0	0	1	0	1	0	
+Stopnie wierzchołków
+1	1	2	4	2	4	2	
+Krawędzie
+1-5 waga 3
+2-6 waga 6
+3-4 waga 2
+3-6 waga 2
+4-5 waga 4
+4-6 waga 6
+4-7 waga 6
+6-7 waga 3
+Waga drzewa: 32
+-----------------------------------------------
+Graf #66
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	0	0	1	1	
+1	0	1	0	1	1	1	
+0	1	0	0	1	0	1	
+0	0	0	0	0	1	1	
+0	1	1	0	0	1	0	
+1	1	0	1	1	0	0	
+1	1	1	1	0	0	0	
+Stopnie wierzchołków
+3	5	3	2	3	4	4	
+Krawędzie
+1-2 waga 3
+1-6 waga 7
+1-7 waga 2
+2-3 waga 6
+2-5 waga 5
+2-6 waga 9
+2-7 waga 6
+3-5 waga 6
+3-7 waga 6
+4-6 waga 9
+4-7 waga 1
+5-6 waga 4
+Waga drzewa: 64
+-----------------------------------------------
+Graf #67
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	1	0	1	0	
+1	0	0	0	1	0	0	
+1	0	0	1	0	0	0	
+1	0	1	0	1	1	0	
+0	1	0	1	0	1	1	
+1	0	0	1	1	0	0	
+0	0	0	0	1	0	0	
+Stopnie wierzchołków
+4	2	2	4	4	3	1	
+Krawędzie
+1-2 waga 1
+1-3 waga 8
+1-4 waga 2
+1-6 waga 4
+2-5 waga 8
+3-4 waga 5
+4-5 waga 6
+4-6 waga 2
+5-6 waga 1
+5-7 waga 7
+Waga drzewa: 44
+-----------------------------------------------
+Graf #68
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	0	0	0	0	
+1	0	0	1	1	1	0	
+0	0	0	0	1	1	0	
+0	1	0	0	0	1	1	
+0	1	1	0	0	0	0	
+0	1	1	1	0	0	1	
+0	0	0	1	0	1	0	
+Stopnie wierzchołków
+1	4	2	3	2	4	2	
+Krawędzie
+1-2 waga 2
+2-4 waga 5
+2-5 waga 6
+2-6 waga 1
+3-5 waga 6
+3-6 waga 7
+4-6 waga 3
+4-7 waga 8
+6-7 waga 9
+Waga drzewa: 47
+-----------------------------------------------
+Graf #69
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	0	0	1	
+0	0	0	0	0	1	0	
+1	0	0	0	0	1	0	
+1	0	0	0	1	0	0	
+0	0	0	1	0	0	1	
+0	1	1	0	0	0	0	
+1	0	0	0	1	0	0	
+Stopnie wierzchołków
+3	1	2	2	2	2	2	
+Krawędzie
+1-3 waga 8
+1-4 waga 1
+1-7 waga 7
+2-6 waga 2
+3-6 waga 6
+4-5 waga 6
+5-7 waga 5
+Waga drzewa: 35
+-----------------------------------------------
+Graf #70
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	1	1	0	
+0	0	1	0	0	1	0	
+0	1	0	0	0	0	0	
+1	0	0	0	0	1	0	
+1	0	0	0	0	1	1	
+1	1	0	1	1	0	1	
+0	0	0	0	1	1	0	
+Stopnie wierzchołków
+3	2	1	2	3	5	2	
+Krawędzie
+1-4 waga 7
+1-5 waga 2
+1-6 waga 5
+2-3 waga 6
+2-6 waga 2
+4-6 waga 3
+5-6 waga 1
+5-7 waga 7
+6-7 waga 5
+Waga drzewa: 38
+-----------------------------------------------
+Graf #71
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	0	1	1	0	
+1	0	0	0	0	1	1	
+1	0	0	1	0	0	1	
+0	0	1	0	0	1	1	
+1	0	0	0	0	0	1	
+1	1	0	1	0	0	0	
+0	1	1	1	1	0	0	
+Stopnie wierzchołków
+4	3	3	3	2	3	4	
+Krawędzie
+1-2 waga 4
+1-3 waga 4
+1-5 waga 1
+1-6 waga 6
+2-6 waga 4
+2-7 waga 9
+3-4 waga 3
+3-7 waga 5
+4-6 waga 1
+4-7 waga 1
+5-7 waga 4
+Waga drzewa: 42
+-----------------------------------------------
+Graf #72
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	0	0	1	1	
+0	0	1	1	1	1	0	
+1	1	0	0	1	1	0	
+0	1	0	0	0	0	1	
+0	1	1	0	0	1	0	
+1	1	1	0	1	0	1	
+1	0	0	1	0	1	0	
+Stopnie wierzchołków
+3	4	4	2	3	5	3	
+Krawędzie
+1-3 waga 9
+1-6 waga 2
+1-7 waga 3
+2-3 waga 8
+2-4 waga 7
+2-5 waga 7
+2-6 waga 4
+3-5 waga 6
+3-6 waga 6
+4-7 waga 6
+5-6 waga 5
+6-7 waga 8
+Waga drzewa: 71
+-----------------------------------------------
+Graf #73
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	1	1	0	
+0	0	1	0	1	1	1	
+1	1	0	1	1	1	0	
+1	0	1	0	0	0	1	
+1	1	1	0	0	0	0	
+1	1	1	0	0	0	0	
+0	1	0	1	0	0	0	
+Stopnie wierzchołków
+4	4	5	3	3	3	2	
+Krawędzie
+1-3 waga 9
+1-4 waga 7
+1-5 waga 8
+1-6 waga 3
+2-3 waga 5
+2-5 waga 1
+2-6 waga 6
+2-7 waga 5
+3-4 waga 5
+3-5 waga 2
+3-6 waga 7
+4-7 waga 7
+Waga drzewa: 65
+-----------------------------------------------
+Graf #74
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	1	0	0	1	
+1	0	1	0	1	0	0	
+0	1	0	1	1	1	0	
+1	0	1	0	0	1	0	
+0	1	1	0	0	1	1	
+0	0	1	1	1	0	0	
+1	0	0	0	1	0	0	
+Stopnie wierzchołków
+3	3	4	3	4	3	2	
+Krawędzie
+1-2 waga 1
+1-4 waga 4
+1-7 waga 6
+2-3 waga 1
+2-5 waga 3
+3-4 waga 7
+3-5 waga 9
+3-6 waga 6
+4-6 waga 6
+5-6 waga 1
+5-7 waga 5
+Waga drzewa: 49
+-----------------------------------------------
+Graf #75
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	0	1	0	1	
+0	0	1	1	0	0	0	
+1	1	0	0	1	0	0	
+0	1	0	0	1	1	0	
+1	0	1	1	0	1	0	
+0	0	0	1	1	0	0	
+1	0	0	0	0	0	0	
+Stopnie wierzchołków
+3	2	3	3	4	2	1	
+Krawędzie
+1-3 waga 5
+1-5 waga 9
+1-7 waga 3
+2-3 waga 1
+2-4 waga 8
+3-5 waga 8
+4-5 waga 2
+4-6 waga 2
+5-6 waga 7
+Waga drzewa: 45
+-----------------------------------------------
+Graf #76
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	1	1	0	0	
+1	0	0	1	0	1	0	
+0	0	0	0	1	0	0	
+1	1	0	0	1	1	1	
+1	0	1	1	0	0	1	
+0	1	0	1	0	0	0	
+0	0	0	1	1	0	0	
+Stopnie wierzchołków
+3	3	1	5	4	2	2	
+Krawędzie
+1-2 waga 7
+1-4 waga 3
+1-5 waga 7
+2-4 waga 8
+2-6 waga 5
+3-5 waga 1
+4-5 waga 5
+4-6 waga 9
+4-7 waga 9
+5-7 waga 3
+Waga drzewa: 57
+-----------------------------------------------
+Graf #77
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	1	1	0	0	
+1	0	0	1	1	1	0	
+1	0	0	0	0	1	0	
+1	1	0	0	1	0	1	
+1	1	0	1	0	0	0	
+0	1	1	0	0	0	1	
+0	0	0	1	0	1	0	
+Stopnie wierzchołków
+4	4	2	4	3	3	2	
+Krawędzie
+1-2 waga 5
+1-3 waga 4
+1-4 waga 4
+1-5 waga 3
+2-4 waga 3
+2-5 waga 6
+2-6 waga 9
+3-6 waga 5
+4-5 waga 3
+4-7 waga 5
+6-7 waga 2
+Waga drzewa: 49
+-----------------------------------------------
+Graf #78
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	1	0	0	0	
+1	0	1	0	1	1	1	
+1	1	0	1	0	0	0	
+1	0	1	0	0	1	1	
+0	1	0	0	0	0	0	
+0	1	0	1	0	0	0	
+0	1	0	1	0	0	0	
+Stopnie wierzchołków
+3	5	3	4	1	2	2	
+Krawędzie
+1-2 waga 3
+1-3 waga 8
+1-4 waga 9
+2-3 waga 4
+2-5 waga 8
+2-6 waga 5
+2-7 waga 1
+3-4 waga 1
+4-6 waga 4
+4-7 waga 2
+Waga drzewa: 45
+-----------------------------------------------
+Graf #79
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	1	0	0	1	
+1	0	0	0	0	0	1	
+1	0	0	1	0	0	0	
+1	0	1	0	1	1	1	
+0	0	0	1	0	1	1	
+0	0	0	1	1	0	0	
+1	1	0	1	1	0	0	
+Stopnie wierzchołków
+4	2	2	5	3	2	4	
+Krawędzie
+1-2 waga 3
+1-3 waga 6
+1-4 waga 6
+1-7 waga 4
+2-7 waga 6
+3-4 waga 6
+4-5 waga 1
+4-6 waga 3
+4-7 waga 1
+5-6 waga 6
+5-7 waga 2
+Waga drzewa: 44
+-----------------------------------------------
+Graf #80
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	0	0	0	
+0	0	1	0	0	0	0	
+0	1	0	1	1	0	1	
+1	0	1	0	1	1	1	
+0	0	1	1	0	1	1	
+0	0	0	1	1	0	1	
+0	0	1	1	1	1	0	
+Stopnie wierzchołków
+1	1	4	5	4	3	4	
+Krawędzie
+1-4 waga 4
+2-3 waga 8
+3-4 waga 5
+3-5 waga 2
+3-7 waga 9
+4-5 waga 1
+4-6 waga 8
+4-7 waga 1
+5-6 waga 5
+5-7 waga 4
+6-7 waga 1
+Waga drzewa: 48
+-----------------------------------------------
+Graf #81
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	0	0	0	0	
+1	0	1	0	1	1	0	
+0	1	0	0	0	1	1	
+0	0	0	0	0	1	1	
+0	1	0	0	0	1	1	
+0	1	1	1	1	0	1	
+0	0	1	1	1	1	0	
+Stopnie wierzchołków
+1	4	3	2	3	5	4	
+Krawędzie
+1-2 waga 6
+2-3 waga 1
+2-5 waga 6
+2-6 waga 9
+3-6 waga 5
+3-7 waga 3
+4-6 waga 6
+4-7 waga 6
+5-6 waga 9
+5-7 waga 2
+6-7 waga 7
+Waga drzewa: 60
+-----------------------------------------------
+Graf #82
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	1	1	0	
+0	0	1	0	0	1	1	
+1	1	0	0	1	0	0	
+1	0	0	0	0	1	0	
+1	0	1	0	0	0	1	
+1	1	0	1	0	0	0	
+0	1	0	0	1	0	0	
+Stopnie wierzchołków
+4	3	3	2	3	3	2	
+Krawędzie
+1-3 waga 3
+1-4 waga 6
+1-5 waga 2
+1-6 waga 6
+2-3 waga 2
+2-6 waga 2
+2-7 waga 6
+3-5 waga 4
+4-6 waga 2
+5-7 waga 4
+Waga drzewa: 37
+-----------------------------------------------
+Graf #83
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	1	1	1	1	
+1	0	0	1	1	0	0	
+0	0	0	1	0	1	1	
+1	1	1	0	0	1	1	
+1	1	0	0	0	0	1	
+1	0	1	1	0	0	1	
+1	0	1	1	1	1	0	
+Stopnie wierzchołków
+5	3	3	5	3	4	5	
+Krawędzie
+1-2 waga 7
+1-4 waga 4
+1-5 waga 3
+1-6 waga 9
+1-7 waga 5
+2-4 waga 8
+2-5 waga 3
+3-4 waga 4
+3-6 waga 1
+3-7 waga 4
+4-6 waga 7
+4-7 waga 2
+5-7 waga 8
+6-7 waga 8
+Waga drzewa: 73
+-----------------------------------------------
+Graf #84
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	1	1	1	
+0	0	0	1	0	1	1	
+1	0	0	1	1	0	1	
+1	1	1	0	0	1	1	
+1	0	1	0	0	0	0	
+1	1	0	1	0	0	0	
+1	1	1	1	0	0	0	
+Stopnie wierzchołków
+5	3	4	5	2	3	4	
+Krawędzie
+1-3 waga 6
+1-4 waga 9
+1-5 waga 5
+1-6 waga 7
+1-7 waga 2
+2-4 waga 6
+2-6 waga 5
+2-7 waga 4
+3-4 waga 7
+3-5 waga 1
+3-7 waga 5
+4-6 waga 7
+4-7 waga 3
+Waga drzewa: 67
+-----------------------------------------------
+Graf #85
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	0	0	0	0	
+0	0	1	0	1	1	1	
+0	1	0	1	0	0	0	
+0	0	1	0	0	0	1	
+0	1	0	0	0	1	0	
+0	1	0	0	1	0	1	
+0	1	0	1	0	1	0	
+Stopnie wierzchołków
+0	4	2	2	2	3	3	
+Krawędzie
+2-3 waga 4
+2-5 waga 1
+2-6 waga 8
+2-7 waga 2
+3-4 waga 5
+4-7 waga 5
+5-6 waga 6
+6-7 waga 7
+Waga drzewa: 38
+-----------------------------------------------
+Graf #86
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	0	1	0	1	
+0	0	1	1	0	1	0	
+1	1	0	1	1	0	1	
+0	1	1	0	0	0	0	
+1	0	1	0	0	1	0	
+0	1	0	0	1	0	1	
+1	0	1	0	0	1	0	
+Stopnie wierzchołków
+3	3	5	2	3	3	3	
+Krawędzie
+1-3 waga 2
+1-5 waga 9
+1-7 waga 6
+2-3 waga 2
+2-4 waga 8
+2-6 waga 8
+3-4 waga 9
+3-5 waga 1
+3-7 waga 3
+5-6 waga 1
+6-7 waga 8
+Waga drzewa: 57
+-----------------------------------------------
+Graf #87
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	0	1	1	1	
+1	0	0	1	1	1	0	
+0	0	0	1	0	0	1	
+0	1	1	0	0	0	1	
+1	1	0	0	0	0	0	
+1	1	0	0	0	0	1	
+1	0	1	1	0	1	0	
+Stopnie wierzchołków
+4	4	2	3	2	3	4	
+Krawędzie
+1-2 waga 6
+1-5 waga 8
+1-6 waga 4
+1-7 waga 9
+2-4 waga 8
+2-5 waga 9
+2-6 waga 7
+3-4 waga 4
+3-7 waga 1
+4-7 waga 5
+6-7 waga 2
+Waga drzewa: 63
+-----------------------------------------------
+Graf #88
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	1	0	0	0	
+0	0	0	0	1	0	0	
+0	0	0	0	1	0	0	
+1	0	0	0	0	0	1	
+0	1	1	0	0	0	0	
+0	0	0	0	0	0	1	
+0	0	0	1	0	1	0	
+Stopnie wierzchołków
+1	1	1	2	2	1	2	
+Krawędzie
+1-4 waga 7
+2-5 waga 7
+3-5 waga 4
+4-7 waga 3
+6-7 waga 6
+Waga drzewa: 27
+-----------------------------------------------
+Graf #89
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	0	1	0	0	
+0	0	0	1	0	1	0	
+0	0	0	1	1	1	0	
+0	1	1	0	1	1	1	
+1	0	1	1	0	0	1	
+0	1	1	1	0	0	0	
+0	0	0	1	1	0	0	
+Stopnie wierzchołków
+1	2	3	5	4	3	2	
+Krawędzie
+1-5 waga 5
+2-4 waga 1
+2-6 waga 7
+3-4 waga 2
+3-5 waga 3
+3-6 waga 5
+4-5 waga 4
+4-6 waga 9
+4-7 waga 8
+5-7 waga 5
+Waga drzewa: 49
+-----------------------------------------------
+Graf #90
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	0	0	0	
+0	0	1	1	0	1	0	
+1	1	0	1	0	1	1	
+1	1	1	0	0	0	0	
+0	0	0	0	0	0	0	
+0	1	1	0	0	0	1	
+0	0	1	0	0	1	0	
+Stopnie wierzchołków
+2	3	5	3	0	3	2	
+Krawędzie
+1-3 waga 6
+1-4 waga 7
+2-3 waga 7
+2-4 waga 1
+2-6 waga 3
+3-4 waga 1
+3-6 waga 6
+3-7 waga 6
+6-7 waga 6
+Waga drzewa: 43
+-----------------------------------------------
+Graf #91
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	0	0	0	1	
+0	0	1	0	0	1	0	
+0	1	0	1	1	0	1	
+0	0	1	0	0	0	0	
+0	0	1	0	0	1	0	
+0	1	0	0	1	0	1	
+1	0	1	0	0	1	0	
+Stopnie wierzchołków
+1	2	4	1	2	3	3	
+Krawędzie
+1-7 waga 3
+2-3 waga 6
+2-6 waga 2
+3-4 waga 3
+3-5 waga 5
+3-7 waga 3
+5-6 waga 4
+6-7 waga 4
+Waga drzewa: 30
+-----------------------------------------------
+Graf #92
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	0	0	0	0	
+0	0	0	1	1	1	0	
+1	0	0	1	0	1	1	
+0	1	1	0	1	1	1	
+0	1	0	1	0	0	0	
+0	1	1	1	0	0	1	
+0	0	1	1	0	1	0	
+Stopnie wierzchołków
+1	3	4	5	2	4	3	
+Krawędzie
+1-3 waga 2
+2-4 waga 6
+2-5 waga 5
+2-6 waga 4
+3-4 waga 5
+3-6 waga 9
+3-7 waga 1
+4-5 waga 1
+4-6 waga 5
+4-7 waga 2
+6-7 waga 1
+Waga drzewa: 41
+-----------------------------------------------
+Graf #93
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	1	0	0	1	
+1	0	0	1	0	1	1	
+0	0	0	0	1	1	0	
+1	1	0	0	0	1	0	
+0	0	1	0	0	1	0	
+0	1	1	1	1	0	0	
+1	1	0	0	0	0	0	
+Stopnie wierzchołków
+3	4	2	3	2	4	2	
+Krawędzie
+1-2 waga 3
+1-4 waga 9
+1-7 waga 7
+2-4 waga 8
+2-6 waga 7
+2-7 waga 1
+3-5 waga 6
+3-6 waga 8
+4-6 waga 7
+5-6 waga 2
+Waga drzewa: 58
+-----------------------------------------------
+Graf #94
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	0	0	0	1	
+0	0	0	0	1	0	1	
+0	0	0	1	1	1	0	
+0	0	1	0	1	1	0	
+0	1	1	1	0	1	0	
+0	0	1	1	1	0	1	
+1	1	0	0	0	1	0	
+Stopnie wierzchołków
+1	2	3	3	4	4	3	
+Krawędzie
+1-7 waga 9
+2-5 waga 4
+2-7 waga 1
+3-4 waga 6
+3-5 waga 8
+3-6 waga 3
+4-5 waga 8
+4-6 waga 7
+5-6 waga 2
+6-7 waga 9
+Waga drzewa: 57
+-----------------------------------------------
+Graf #95
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	1	0	1	
+0	0	1	0	0	1	0	
+1	1	0	1	1	1	1	
+1	0	1	0	0	0	0	
+1	0	1	0	0	0	0	
+0	1	1	0	0	0	0	
+1	0	1	0	0	0	0	
+Stopnie wierzchołków
+4	2	6	2	2	2	2	
+Krawędzie
+1-3 waga 6
+1-4 waga 6
+1-5 waga 2
+1-7 waga 9
+2-3 waga 8
+2-6 waga 1
+3-4 waga 8
+3-5 waga 5
+3-6 waga 8
+3-7 waga 1
+Waga drzewa: 54
+-----------------------------------------------
+Graf #96
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	1	1	1	1	1	
+1	0	0	0	0	0	1	
+1	0	0	1	0	1	1	
+1	0	1	0	1	1	1	
+1	0	0	1	0	1	1	
+1	0	1	1	1	0	0	
+1	1	1	1	1	0	0	
+Stopnie wierzchołków
+6	2	4	5	4	4	5	
+Krawędzie
+1-2 waga 5
+1-3 waga 8
+1-4 waga 6
+1-5 waga 5
+1-6 waga 6
+1-7 waga 6
+2-7 waga 4
+3-4 waga 7
+3-6 waga 1
+3-7 waga 4
+4-5 waga 3
+4-6 waga 5
+4-7 waga 1
+5-6 waga 7
+5-7 waga 1
+Waga drzewa: 69
+-----------------------------------------------
+Graf #97
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	1	0	0	
+0	0	0	1	0	0	1	
+1	0	0	0	0	1	0	
+1	1	0	0	0	1	1	
+1	0	0	0	0	1	1	
+0	0	1	1	1	0	0	
+0	1	0	1	1	0	0	
+Stopnie wierzchołków
+3	2	2	4	3	3	3	
+Krawędzie
+1-3 waga 8
+1-4 waga 5
+1-5 waga 8
+2-4 waga 5
+2-7 waga 6
+3-6 waga 8
+4-6 waga 4
+4-7 waga 6
+5-6 waga 1
+5-7 waga 4
+Waga drzewa: 55
+-----------------------------------------------
+Graf #98
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	0	0	1	1	0	
+0	0	1	1	1	1	1	
+0	1	0	1	0	0	0	
+0	1	1	0	1	1	0	
+1	1	0	1	0	0	1	
+1	1	0	1	0	0	1	
+0	1	0	0	1	1	0	
+Stopnie wierzchołków
+2	5	2	4	4	4	3	
+Krawędzie
+1-5 waga 1
+1-6 waga 3
+2-3 waga 7
+2-4 waga 7
+2-5 waga 5
+2-6 waga 3
+2-7 waga 8
+3-4 waga 9
+4-5 waga 3
+4-6 waga 6
+5-7 waga 5
+6-7 waga 3
+Waga drzewa: 60
+-----------------------------------------------
+Graf #99
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	1	0	0	1	1	0	
+1	0	1	1	1	0	1	
+0	1	0	1	0	1	1	
+0	1	1	0	1	0	1	
+1	1	0	1	0	0	0	
+1	0	1	0	0	0	1	
+0	1	1	1	0	1	0	
+Stopnie wierzchołków
+3	5	4	4	3	3	4	
+Krawędzie
+1-2 waga 2
+1-5 waga 1
+1-6 waga 7
+2-3 waga 1
+2-4 waga 2
+2-5 waga 1
+2-7 waga 3
+3-4 waga 6
+3-6 waga 8
+3-7 waga 7
+4-5 waga 9
+4-7 waga 2
+6-7 waga 8
+Waga drzewa: 57
+-----------------------------------------------
+Graf #100
+Punkty grafu
+1	2	3	4	5	6	7	
+Macierz grafu
+0	0	1	1	1	0	1	
+0	0	0	0	0	1	0	
+1	0	0	1	1	1	0	
+1	0	1	0	1	0	0	
+1	0	1	1	0	0	0	
+0	1	1	0	0	0	0	
+1	0	0	0	0	0	0	
+Stopnie wierzchołków
+4	1	4	3	3	2	1	
+Krawędzie
+1-3 waga 3
+1-4 waga 9
+1-5 waga 6
+1-7 waga 5
+2-6 waga 4
+3-4 waga 8
+3-5 waga 9
+3-6 waga 2
+4-5 waga 3
+Waga drzewa: 49
+-----------------------------------------------
