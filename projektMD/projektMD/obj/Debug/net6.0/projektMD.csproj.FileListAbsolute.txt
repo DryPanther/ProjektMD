@@ -1,0 +1,15 @@
+C:\Users\Manuel\source\repos\projektMD\projektMD\bin\Debug\net6.0\projektMD.exe
+C:\Users\Manuel\source\repos\projektMD\projektMD\bin\Debug\net6.0\projektMD.deps.json
+C:\Users\Manuel\source\repos\projektMD\projektMD\bin\Debug\net6.0\projektMD.runtimeconfig.json
+C:\Users\Manuel\source\repos\projektMD\projektMD\bin\Debug\net6.0\projektMD.dll
+C:\Users\Manuel\source\repos\projektMD\projektMD\bin\Debug\net6.0\ref\projektMD.dll
+C:\Users\Manuel\source\repos\projektMD\projektMD\bin\Debug\net6.0\projektMD.pdb
+C:\Users\Manuel\source\repos\projektMD\projektMD\obj\Debug\net6.0\projektMD.csproj.AssemblyReference.cache
+C:\Users\Manuel\source\repos\projektMD\projektMD\obj\Debug\net6.0\projektMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel\source\repos\projektMD\projektMD\obj\Debug\net6.0\projektMD.AssemblyInfoInputs.cache
+C:\Users\Manuel\source\repos\projektMD\projektMD\obj\Debug\net6.0\projektMD.AssemblyInfo.cs
+C:\Users\Manuel\source\repos\projektMD\projektMD\obj\Debug\net6.0\projektMD.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\projektMD\projektMD\obj\Debug\net6.0\projektMD.dll
+C:\Users\Manuel\source\repos\projektMD\projektMD\obj\Debug\net6.0\ref\projektMD.dll
+C:\Users\Manuel\source\repos\projektMD\projektMD\obj\Debug\net6.0\projektMD.pdb
+C:\Users\Manuel\source\repos\projektMD\projektMD\obj\Debug\net6.0\projektMD.genruntimeconfig.cache
